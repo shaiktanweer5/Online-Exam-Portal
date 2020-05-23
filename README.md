@@ -1,4 +1,4 @@
-# Online-Examination-Portal-in-Python3-Django
+# Online-Exam-Portal-in-Python3-Django
 This is a simple Online Examination Portal rebuilt in Python3 Django
 
 #### Create Superuser after downloading by running the following command:
